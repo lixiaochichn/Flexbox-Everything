@@ -53,13 +53,13 @@ h1 {
     overflow-y: scroll;
     -webkit-overflow-scrolling: touch;
 }
-.header .fa.fa-html5 {
+.header .fa.fa-grav {
     font-size: 30px;
     color: #f16528;
 
 }
 
-.header .fa.fa-css3 {
+.header .fa.fa-github-alt {
     font-size: 30px;
     color: #0070c9;
 
@@ -88,4 +88,7 @@ h1 {
 
 .footer>.items>.fa {
     font-size: 22px;
+}
+.fa.fa-gratipay {
+    margin: 0 10px 0 0;
 }
